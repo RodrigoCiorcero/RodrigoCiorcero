@@ -1,0 +1,2 @@
+Homepage URL: https://rodrigociorcero.pages.dev
+Authorization callback URL: https://rodrigociorcero.pages.dev/oauth/callback/github
